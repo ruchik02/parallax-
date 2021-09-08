@@ -1,0 +1,1 @@
+there are two parallax webpage and two css one is para.css and other is para1.css. Parallax scrolling is a special scrolling technique used in web design where background images throughout a web page move slower than foreground images, creating an illusion of depth on a two-dimensional site. 
